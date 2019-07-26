@@ -6,6 +6,7 @@ phone_title = ['134', '135', '136', '137', '138', '139', '150', '151', '152', '1
 phone_str = '0123456789'
 a=[]
 b=''
+print 656666
 phone = random.choice(phone_title)
 for i in range(8):
     a.append(random.choice(phone_str))
